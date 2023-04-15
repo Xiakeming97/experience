@@ -4,27 +4,27 @@
 
 ### 1.下载源文件
 
-![下载源文件](/Users/apple/Desktop/mp- html/截图/获取源码.png)
+![下载源文件](./截图/获取源码.png)
 
 ### 2.将对应文件放入到项目中
 
 #### 要放的文件夹
 
-![要放的文件夹](/Users/apple/Desktop/mp- html/截图/选择的文件夹.png)
+![要放的文件夹](./截图/选择的文件夹.png)
 
 #### 放到项目中
 
 创建components文件夹将**mp-weixin**放到该目录下并且改名为**mp-html**
 
-![项目](/Users/apple/Desktop/mp- html/截图/放入项目中.png)
+![项目](./截图/放入项目中.png)
 
 #### 编辑文件
 
-![编辑文件](/Users/apple/Desktop/mp- html/截图/编辑的文件.png)
+![编辑文件](./截图/编辑的文件.png)
 
 ##### 编辑文件的内容
 
-![内容](/Users/apple/Desktop/mp- html/截图/编辑配置.png)
+![内容](./截图/编辑配置.png)
 
 ```js
 	usingComponents: {
@@ -38,11 +38,11 @@
 
 - 编辑文本
 
-  ![编辑文本](/Users/apple/Desktop/mp- html/截图/文件内容.png)
+  ![编辑文本](./截图/文件内容.png)
 
 - 安装依赖 重新打包
 
-  ![打包](/Users/apple/Desktop/mp- html/截图/生成文件包.png)
+  ![打包](./截图/生成文件包.png)
 
 ```bash
 # 安装依赖
